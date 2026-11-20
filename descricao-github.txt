@@ -1,0 +1,1 @@
+Vocabulário em C# com conceitos, sinônimos e conexões: traduz "comprador" para Cliente e mostra como os conceitos se relacionam. Sem dependências. Feito em .NET 10.

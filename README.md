@@ -1,6 +1,6 @@
 # Ontologia
 
-![Onde a ontologia entra na sua IA](images/ontologia.png)
+![Onde a ontologia entra na sua IA](images/ontologia.gif)
 
 Vocabulário de domínio em C# com **conceitos**, **sinônimos** e **conexões**. Ele traduz o jeito como as pessoas falam ("comprador", "tomador", "consumidor") para o conceito que o sistema conhece ("Cliente") e mostra como os conceitos se relacionam.
 
